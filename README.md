@@ -7,7 +7,7 @@
 
 # Installation
 
-CLone the Repository and run the following in your terminal:
+Clone the repository and run the following in your terminal:
 ```bash
 npm i
 ```
